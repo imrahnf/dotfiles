@@ -1,0 +1,7 @@
+[tools]
+bun = "latest"
+flutter = "stable"
+java = "openjdk-21"
+node = "20"
+rust = "latest"
+rust-analyzer = "latest"
