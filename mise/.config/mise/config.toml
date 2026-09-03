@@ -1,7 +1,9 @@
 [tools]
 bun = "latest"
 flutter = "stable"
+go = "latest"
 java = "openjdk-21"
 node = "20"
 rust = "latest"
 rust-analyzer = "latest"
+terraform = "latest"
